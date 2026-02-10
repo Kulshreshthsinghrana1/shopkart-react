@@ -1,0 +1,44 @@
+.admin {
+  padding: 30px;
+}
+
+.admin h2 {
+  margin-bottom: 20px;
+}
+
+.admin-form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.admin-form input {
+  padding: 6px;
+}
+
+.admin-form button {
+  padding: 6px 12px;
+  background: #131921;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  background: white;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+td button {
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
