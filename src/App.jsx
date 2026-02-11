@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Cart from "./pages/Cart";
-import Admin from "./pages/Admin";
+import Admin from "./pages/Admin.jsx";
 import "./styles/App.css";
 
 function App() {
